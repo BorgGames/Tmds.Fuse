@@ -8,6 +8,7 @@
     <Version>0.1.0</Version>
 
     <!-- Package stuff -->
+    <PackageId>Borg.Fuse</PackageId>
     <PackageLicenseExpression>LGPL-2.1</PackageLicenseExpression>
     <PackageLicenseFile Condition="$(PackageLicenseExpression) == ''">LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
